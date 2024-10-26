@@ -2,19 +2,19 @@ public class B {
     private int B1;
     private double B2;
     
-    public void setA1(int B1){
+    public void setB1(int B1){
         this.B1 = B1;
     }
 
-    public int getA1(){
+    public int getB1(){
         return B1;
     }
 
-    public void setA2(double B2){
+    public void setB2(double B2){
         this.B2 = B2;
     }
 
-    public double getA2(){
+    public double getB2(){
         return B2;
     }
 
