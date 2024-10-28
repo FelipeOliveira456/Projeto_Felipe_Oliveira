@@ -1,2 +1,2 @@
 # Projeto_Felipe_Oliveira
-# Atividade da disciplina de Engenharia de Software
+# Atividade da disciplina de Engenharia de Software sobre gerenciamento de versões
